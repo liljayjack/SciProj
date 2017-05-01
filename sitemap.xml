@@ -9,7 +9,7 @@
       <image:loc>http://Scienceproject.com/images/websiterebranddesktop_home.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Scienceproject.com/images/websiterebrandmobile_home.jpg</image:loc>
+      <image:loc>http://Scienceproject.com/images/websiterebrandmobile_home.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -21,7 +21,7 @@
       <image:loc>http://Scienceproject.com/images/websiterebranddesktop_catagories-crop-u152.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Scienceproject.com/images/websiterebrandmobile_catagories.jpg</image:loc>
+      <image:loc>http://Scienceproject.com/images/websiterebrandmobile_catagories.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -45,7 +45,7 @@
       <image:loc>http://Scienceproject.com/images/websiterebranddesktop_search.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Scienceproject.com/images/websiterebrandmobile_search.jpg</image:loc>
+      <image:loc>http://Scienceproject.com/images/websiterebrandmobile_search.png</image:loc>
     </image:image>
   </url>
   <url>
